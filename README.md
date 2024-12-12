@@ -1,0 +1,2 @@
+# audio_stream_discord_bot
+discordのVCをリアルタイムで取得したい
